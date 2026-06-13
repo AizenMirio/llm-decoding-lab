@@ -1,0 +1,3 @@
+agent	policy	rewards	constraints
+model	samples	diverse	actions
+translation	quality	latency	decoding

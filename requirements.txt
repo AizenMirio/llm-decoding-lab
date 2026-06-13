@@ -1,0 +1,10 @@
+accelerate>=0.30
+datasets>=2.18
+evaluate>=0.4
+jaxtyping>=0.2
+numpy>=1.26
+rouge-score>=0.1
+sentencepiece>=0.2
+torch>=2.2
+tqdm>=4.66
+transformers>=4.40
