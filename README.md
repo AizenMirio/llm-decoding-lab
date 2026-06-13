@@ -1,8 +1,11 @@
 # LLM Decoding Lab
 
-This repository contains earlier coursework on language-model decoding and controlled generation from IIT Bombay.
+Decoding, constrained generation, and Medusa-style fast inference experiments
+for language models.
 
-It includes foundational implementations and experiments around decoding, constrained generation, and fast autoregressive inference.
+It includes foundational implementations and experiments around decoding,
+constrained generation, and fast autoregressive inference. Originally developed
+as IIT Bombay coursework and later cleaned for reproducibility.
 
 ## What This Project Demonstrates
 
